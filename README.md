@@ -9,6 +9,6 @@ Our temperature monitoring system provides The Marine Conservation Society with 
 
 | Component           | Description                            |
 |---------------------|----------------------------------------|
-| **Microcontroller** | STM32 (ARM Cortex-M series)            |
+| **Microcontroller** | STM32           |
 | **Languages**       | C++ and Assembly (ARM Thumb)           |
 | **Sensor**          | Waterproof digital temperature sensor  |
